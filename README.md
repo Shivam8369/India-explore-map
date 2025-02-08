@@ -10,9 +10,9 @@ for data collection i have used gpt and for image i use unsplash
 
 
 # how to install 
-git clone repo-name-url
-npm install
-npm run dev
+- git clone https://github.com/Shivam8369/India-explore-map.git
+- npm install
+- npm run dev
 
 # 📄 License
 This project is open-source. Feel free to modify and improve it.
